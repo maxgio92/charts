@@ -3,12 +3,12 @@ entries:
   capsule-addon-fluxcd:
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2023-12-31T14:22:17.908099232Z"
+    created: "2023-12-31T14:40:04.529647778Z"
     description: A Helm chart for Kubernetes
-    digest: acb389c8f655f1be888f1e0c2233dd37af23861a79c6cf2a9ead9ddebd068544
+    digest: b213589c23ac4a3d4ca6e26860b95c275872cd5b2acb2648f2e89873a5d77bb1
     name: capsule-addon-fluxcd
     type: application
     urls:
     - https://maxgio92.github.io/charts/capsule-addon-fluxcd-0.1.0.tgz
     version: 0.1.0
-generated: "2023-12-31T14:22:17.907038126Z"
+generated: "2023-12-31T14:40:04.528935625Z"
